@@ -16,11 +16,6 @@ Task 03: Password Strength Checker
 ​2/5: Weak  
 ​3/5: Medium  
 ​4/5: Strong  
-​5/5: Very Strong (Excellent)  
+​5/5: Very Strong (Excellent).
 
-​Personal Growth & Mindset
-​Beyond the code, this task helped me strengthen my technical discipline using VS Code. I learned to:  
-​Handle complex functions using any() and list comprehensions.  
-​Troubleshoot syntax and indentation errors effectively.  
-​Build an interactive command-line interface for users.  
-​Develop a "programmer's mindset" where every bug is a learning opportunity.  
+​
